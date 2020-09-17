@@ -1,10 +1,14 @@
 {
     "name": "vue-to-word",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "vue to word",
     "main": "dist/main.js",
     "scripts": {
         "build": "webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:lileyong/vue-to-word.git"
     },
     "keywords": [
         "vue",
