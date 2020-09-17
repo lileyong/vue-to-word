@@ -10,4 +10,4 @@ import VueToWord from 'vue-to-word'
 
 import VueComp from 'path/to/vue-file.vue'
 
-VueToWord(VueComp, fileName)
+VueToWord({ VueComp, fileName: 'fileName.doc' })
